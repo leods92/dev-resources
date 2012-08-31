@@ -1,9 +1,12 @@
 # Backgrounds
-http://www.backgroundlabs.com/
-http://subtlepatterns.com/thumbnail-view/
+* http://www.backgroundlabs.com/
+* http://subtlepatterns.com/thumbnail-view/
 
 # Loading gifs
-http://preloaders.net/
+* http://preloaders.net/
 
 # Favicons
-http://www.consultsarath.com/public-utilities/favicon.aspx
+* http://www.consultsarath.com/public-utilities/favicon.aspx
+
+# Misc
+* http://placehold.it/ - Placeholder images.
