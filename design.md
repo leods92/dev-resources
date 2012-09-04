@@ -4,3 +4,6 @@
 # Forms
 * Chosen: http://harvesthq.github.com/chosen/ - Enhanced and standardized form fields.
 * Formee: http://formee.org/ - Responsive form elements framework.
+
+# Responsive Web Design
+* http://www.responsinator.com/ - Online emulator (iPad, iPhone, Android, Kindle0
