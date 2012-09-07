@@ -7,3 +7,7 @@
 
 # Responsive Web Design
 * http://www.responsinator.com/ - Online emulator (iPad, iPhone, Android, Kindle0
+
+# Sketching, prototyping, wireframing, etc
+* http://sneakpeekit.com/mobile-sketchsheets/ - Printable sketch sheets (including mobile).
+* http://www.mightymeta.co.uk/responsive-web-design-sketch-sheets/ - Responsive sketch sheets
