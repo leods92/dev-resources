@@ -1,5 +1,5 @@
 # General
-* Optimize images (optpng)
+* Optimize images (optipng)
 * Compile static assets
 * Set *Google Analytics*
 * Set *AreMySitesUp?*
