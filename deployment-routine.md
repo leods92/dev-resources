@@ -7,6 +7,9 @@
 * Add website to *Google Webmasters*
 * Create Twitter account
 * Configure email account
+  * Don't forget to set SPF and DKIM records.
+* Create Facebook page
+  * Don't forget to set its custom URL name
 
 # Node projects
 * heroku config:add NODE_ENV=production
