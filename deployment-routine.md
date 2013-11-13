@@ -16,3 +16,4 @@
 
 # Heroku hosted
 * heroku maintenance:off
+* Deploying with private gems: http://verboselogging.com/2012/05/25/private-rubygems-on-heroku
