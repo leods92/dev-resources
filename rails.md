@@ -3,7 +3,6 @@
 * https://github.com/bbatsov/ruby-style-guide
 * https://github.com/bbatsov/rails-style-guide
 * https://github.com/bbatsov/rubocop
-* Wiriting better RSpecs - http://betterspecs.org/
 
 # Security
 * http://guides.rubyonrails.org/security.html#intranet-and-admin-security

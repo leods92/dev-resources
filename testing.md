@@ -6,3 +6,6 @@
 
 # Credit Card testing
 * Online validator: http://www.validcreditcardnumber.com/* Source of numbers: http://www.getcreditcardnumbers.com/
+
+# Rspec
+* Wiriting better RSpecs - http://betterspecs.org/
